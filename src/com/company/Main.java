@@ -8,7 +8,7 @@ public class Main {
 	    a[i]=i*(i+1);
 	    System.out.print(a[i]+ " ");
     }
-	for (int i=0;i<n;i++){
+	for (int i=0;i<10;i++){
 		a[i]+=a[i]*2;
 	}
 
